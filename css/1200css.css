@@ -1,0 +1,875 @@
+@media screen and (max-width:1227px) {
+	.zs-bts {
+		width: 94%;
+	}
+
+	.zs-bts li {
+		width: 33.33%;
+		padding: 8px;
+		box-sizing: border-box;
+	}
+
+	.zs-bts a {
+		margin: 0;
+		width: 100%;
+	}
+
+	.zs-bts em {
+		height: auto;
+	}
+
+	.zs-bts em img {
+		height: auto;
+	}
+
+	.zs-bts p {
+		width: 94%;
+		margin: 15px auto 0;
+	}
+
+	.zs-bts span {
+		width: 94%;
+	}
+}
+
+@media screen and (max-width:1200px) {
+
+	/*首页*/
+	.hdb-nks {
+		height: 60px;
+	}
+
+	div.ad-pc-hdpo {
+		height: auto;
+	}
+
+	.ith-form {
+		width: 94%;
+		padding: 40px 0;
+	}
+
+	.ithf-lt {
+		width: 50%;
+		box-sizing: border-box;
+		padding: 0 30px 0 60px;
+	}
+
+	.ithf-rt {
+		width: 50%;
+		box-sizing: border-box;
+		padding: 0 30px;
+		margin: 0 0 0;
+	}
+
+	.ithfr-tx {
+		box-sizing: border-box;
+		width: 100%;
+	}
+
+	.ithfl-title {
+		line-height: 36px;
+		padding: 0 0 15px;
+	}
+
+	.inp-nr {
+		width: 94%;
+		margin-left: 0;
+		left: 3%;
+	}
+
+	.inpn-nk {
+		width: 94%;
+	}
+
+	.ifs {
+		margin-bottom: 0;
+	}
+
+	.ifs-nr {
+		width: 94%;
+		margin-top: 0;
+	}
+
+	.ifs-lt {
+		float: none;
+		margin: 0;
+		width: 100%;
+		box-sizing: border-box;
+		padding: 0 30px;
+	}
+
+	.ifsl-num {
+		width: 100%;
+		margin: 0 auto;
+	}
+
+	.ifsl-md {
+		width: 100%;
+		margin: 0 auto 29px;
+	}
+
+	.ifsl-phone {
+		width: 100%;
+		margin: 0 auto 12px;
+		box-sizing: border-box;
+	}
+
+	.ifsl-xx {
+		width: 100%;
+		margin: 0 auto 12px;
+		box-sizing: border-box;
+	}
+
+	.ifsl-link {
+		width: 100%;
+	}
+
+	.ifs-vd {
+		position: relative;
+		top: auto;
+		right: auto;
+		float: none;
+		margin: 25px auto 0;
+	}
+
+	.hdtc {
+		width: 96%;
+	}
+
+	.hdb {
+		width: 96%;
+		height: auto;
+	}
+
+	.hdn-link {
+		width: 100%;
+		height: 60px;
+	}
+
+	.hdnl p {
+		line-height: 60px;
+	}
+
+	.hdnl {
+		width: 14.2%;
+	}
+
+	.hdnl ul {
+		top: 60px;
+	}
+
+	.brp {
+		width: 94%;
+		left: 3%;
+		margin-left: 0;
+	}
+
+	.brp-lt {
+		padding: 0 0 0 20px;
+	}
+
+	.brp-rt {
+		float: right;
+		padding-right: 20px;
+	}
+
+	.ior-ct {
+		width: 94%;
+	}
+
+	.hdnl p.adhot {
+		background: url(../images/hd-hot.png) no-repeat 75% 3px;
+	}
+
+	.ir-bt {
+		width: 638px;
+	}
+
+	.ih-nr {
+		width: 94%;
+	}
+
+	.ih-lt {
+		width: 48%;
+	}
+
+	.ih-rt {
+		width: 48%;
+	}
+
+	.ih-lt b {
+		float: none;
+		width: auto;
+		margin-left: 220px;
+	}
+
+	.ih-lt span {
+		float: none;
+		width: auto;
+		margin-left: 220px;
+	}
+
+	.ih-lt p {
+		float: none;
+		width: auto;
+		margin-left: 220px;
+	}
+
+	.ih-rt b {
+		width: 50%;
+	}
+
+	.ik-zst {
+		width: 94%;
+		margin-left: 0;
+		left: 3%;
+		box-shadow: 0 0 15px 10px rgba(214, 214, 214, 0.3);
+	}
+
+	.ft-db {
+		width: 94%;
+	}
+
+	.ik .it-col {
+		padding: 1.6rem 0 4rem;
+	}
+
+	.ik-bs {
+		padding-top: 1rem;
+	}
+
+	.ft-py {
+		width: 94%;
+		text-align: center;
+	}
+
+	.ft-py p {
+		float: none;
+		display: inline-block;
+	}
+
+	.ftd-ct {
+		float: right;
+		padding-top: 20px;
+		width: 40%;
+	}
+
+	.ftd-rt {
+		width: 40%;
+		padding-bottom: 20px;
+	}
+
+	.ftd-rt img {
+		margin: 0;
+		float: left;
+		margin-right: 15px;
+	}
+
+	.ftd-rt p {
+		float: left;
+		height: 102px;
+		line-height: 102px;
+		width: auto;
+	}
+
+	.ftd-lt {
+		width: 60%;
+	}
+
+	.zspo {
+		width: 94%;
+		margin-left: 0;
+		margin-top: 0;
+		left: 3%;
+		top: -250%;
+		position: absolute;
+	}
+
+	.zspo .ith-form {
+		width: 100%;
+	}
+
+	.hdb-wks {
+		box-shadow: none;
+	}
+
+	.zs-txg {
+		display: none;
+	}
+
+	.zs-links {
+		width: 94%;
+	}
+
+	.zsln-title {
+		float: left;
+	}
+
+	.zsln-gd {
+		width: auto;
+		float: none;
+		margin-left: 102px;
+	}
+
+	.rwxn-nk {
+		width: 895px;
+	}
+
+	.rwxn-lt {
+		padding-left: 0;
+	}
+
+	/*3设计作品-作品详情页*/
+	div.pzx-adcs .rwxs-cts {
+		width: 94%;
+	}
+
+	.pzx-bk {
+		width: 880px;
+	}
+
+	.pzxb-po {
+		display: none;
+	}
+
+	div.pzxbg-po {
+		margin-left: -440px;
+	}
+
+	.zs-bts li {
+		width: 50%;
+	}
+
+
+	/*******************************************
+ * *************** 5设计作品 ****************
+ ******************************************/
+	.designer_list {
+		width: 94%;
+	}
+
+	.designer_list li .img_container {
+		max-width: 33%;
+		overflow: hidden;
+	}
+
+	.designer_banner img {
+		max-width: 100%;
+	}
+
+	.designer_team {
+		width: 94%;
+	}
+
+	.designer_list_big {
+		width: 94%;
+	}
+
+	.designer_list_big li {
+		margin-right: 10.5%;
+	}
+
+	.designer_list_big li:nth-child(3),
+	.designer_list_big li:nth-child(6),
+	.designer_list_big li:nth-child(9), 
+	.designer_list_big li:nth-child(12) {
+		margin-right: 0;
+	}
+
+	.designer_list_big li:nth-child(4),
+	.designer_list_big li:nth-child(8),
+	.designer_list_big li:nth-child(12) {
+		margin-right: 12.5%;
+	}
+
+
+	/* ============= 邻居怎么说 ================ */
+	.comment-wrap {
+		width: 100%;
+		padding: 15px;
+		box-sizing: border-box;
+	}
+
+	.comment-wrap .top-left,
+	.comment-wrap .top-right {
+		width: 100%;
+		text-align: center;
+	}
+
+
+
+}
+
+@media screen and (max-width:1100px) {
+
+	/*首页*/
+	.ithfl-title {
+		padding-bottom: 0;
+	}
+
+	.ithf-lt {
+		padding: 0 25px;
+		width: 460px;
+		float: left;
+		border-right: 1px solid #e8e7e7;
+	}
+
+	.ithf-rt {
+		padding: 0 25px 0 480px;
+		width: 100%;
+		float: none;
+		border-left: 0;
+	}
+
+	.brp {
+		display: none;
+	}
+
+}
+
+
+
+@media screen and (max-width:950px) {
+
+	/* 页面公共组件 */
+	.current-position {
+		margin-top: 7%;
+	}
+
+	.baojia-wrap {
+		width: 120%;
+		float: none;
+		margin-left: 15%;
+		margin-right: auto;
+		padding-bottom: 1%;
+	}
+
+	.baojia-wrap .title {
+		top: -2.5%;
+		left: 17%;
+	}
+
+	.baojia-wrap .input-left h4 {
+		margin-bottom: 3%;
+	}
+
+	.baojia-wrap .input-left::before {
+		right: 3%;
+		top: 22%;
+	}
+
+	.baojia-wrap .input-left select {
+		width: 49.6%;
+	}
+
+	.baojia-wrap .submit-wrap {
+		width: 100%;
+	}
+
+	.baojia-wrap .submit {
+		padding: 0 .55rem;
+		margin: 0 auto;
+	}
+
+	.baojia-wrap .right-text {
+		width: 100%;
+	}
+
+	.baojia-wrap .right-text h4 {
+		text-align: center;
+		margin-bottom: 3%;
+		margin-top: 2%;
+	}
+
+	.baojia-wrap .right-text ul {
+		width: 50%;
+		margin-left: 39%;
+		margin-top: 4%;
+	}
+
+	/*首页*/
+	.ithf-lt {
+		width: 100%;
+		padding: 0;
+		float: none;
+		border-right: none;
+		margin: 0 auto;
+	}
+
+	.ithfl-title {
+		text-align: center;
+		padding-bottom: 30px;
+	}
+
+	.ithfl-mr,
+	.ithfl-lx,
+	.ithfl-phone,
+	.ithfl-st {
+		width: 410px;
+		margin: 0 auto 20px;
+	}
+
+	.ithf-rt {
+		float: none;
+		padding: 10px 0 0;
+		width: 410px;
+		margin: 0 auto;
+	}
+
+	.ithfr-price {
+		width: 370px;
+	}
+
+	.ithfr-tk {
+		width: 370px;
+		margin: 20px 0;
+	}
+
+	.ithfr-tk p {
+		background: url(../images/ih-icon3.png) no-repeat 30% center;
+		box-sizing: border-box;
+		width: 100%;
+		height: 100%;
+		padding-left: 45%;
+	}
+
+	.ithfr-tk p.ad-click {
+		background: url(../images/ih-icon3.png) no-repeat 30% center #222;
+		-webkit-transition: all 0.3s ease 0s;
+		-o-transition: all 0.3s ease 0s;
+		transition: all 0.3s ease 0s;
+	}
+
+	.ithfr-tk p.ad-click:hover {
+		background: url(../images/ih-icon3.png) no-repeat 30% center #ff6600;
+	}
+
+	.ftdl-nav i {
+		padding: 0 8px;
+	}
+
+	.ft-py {
+		font-size: 12px;
+	}
+
+	.ftdl-nav {
+		font-size: 14px;
+	}
+
+	.ftd-ct p {
+		font-size: 14px;
+	}
+
+	.ftd-lt {
+		width: 55%;
+	}
+
+	.ftd-ct,
+	.ftd-rt {
+		width: 45%;
+	}
+
+	/**
+ * 5设计师
+ */
+	.designer_team .text_container h3 {
+		margin-bottom: 10%;
+	}
+
+	.designer_team .text_container h3::before {
+		width: 20%;
+	}
+
+	.designer_team .text_container p {
+		font-size: .2rem;
+	}
+
+	.designer_list .img_container .img_text {
+		width: 383px;
+		left: 50%;
+		margin-left: -191.5px;
+	}
+
+	.designer_list .list_text p,
+	.designer_list_big .list_text p {
+		text-align: center;
+		margin-top: 3%;
+	}
+
+	.designer_list_big li {
+		margin-left: 4%;
+		margin-right: 10.5%;
+	}
+
+	.designer_list_big li:nth-child(3),
+	.designer_list_big li:nth-child(6),
+	.designer_list_big li:nth-child(9) {
+		margin-right: 10%;
+	}
+
+	.designer_list_big li:nth-of-type(even) {
+		margin-right: 0;
+	}
+
+	.designer_list li .img_container {
+		float: none;
+		max-width: 100%;
+		width: 100%;
+		margin: 2% auto;
+		text-align: center;
+	}
+
+	.designer_list li .list_text {
+		float: none;
+		width: 100%;
+	}
+
+	/*6设计师(大图列表)-设计师详情页*/
+	.rwx-nr {
+		height: auto;
+	}
+
+	.rwxn-nk {
+		width: 94%;
+	}
+
+	.rwxn-lt {
+		width: 220px;
+	}
+
+	.rwxn-rt {
+		width: auto;
+		float: none;
+		margin-left: 220px;
+	}
+
+	.rwxn-rt p em {
+		width: 90px;
+		display: block;
+		float: left;
+		overflow: hidden;
+	}
+
+	.rwxn-rt p span {
+		width: auto;
+		float: none;
+		margin-left: 90px;
+	}
+
+	.rwxs-cts {
+		width: 94%;
+	}
+
+	.rwxs-cts span {
+		width: 200px;
+		margin-left: -100px;
+	}
+
+	/*3设计作品-作品详情页*/
+	.pzx-bk {
+		width: 94%;
+	}
+
+	.pzxb-title {
+		width: 100%;
+	}
+
+	.pzxb-subt {
+		width: 560px;
+		margin: 0 auto 28px;
+	}
+
+	.pzxbs-tx {
+		padding-left: 0;
+	}
+
+	.pzxb-tab {
+		width: 100%;
+	}
+
+	.pzxbt-xx {
+		width: 94%;
+	}
+
+	.pzxbt-xx li {
+		width: 50%;
+	}
+
+	.pzxb-xx {
+		width: 100%;
+	}
+
+	.pzxbx-lt {
+		width: 94%;
+		margin: 0 auto;
+		padding: 0;
+		float: none;
+	}
+
+	.pzxbx-rt {
+		float: none;
+		margin: 0 auto;
+	}
+
+	.pzxb-gd {
+		width: 100%;
+	}
+
+	.pzxbg {
+		width: 100%;
+		left: 0;
+		margin-left: 0;
+	}
+
+	div.pzxbg-po {
+		margin-left: 0;
+	}
+
+	.pzxb-hdnr {
+		width: 100%;
+	}
+
+	.pzxbh-img {
+		width: 100%;
+	}
+
+	.pzxb-bsub {
+		width: 100%;
+	}
+
+	.pzxb-xzls {
+		width: 100%;
+	}
+
+	.pzxb-xzls .zs-bts {
+		width: 100%;
+	}
+
+
+	/* ================= 我要预约 ==================*/
+	.myyuyue-wrap {
+		padding-top: 16%;
+		margin-top: 4%;
+		background-size: 100%;
+	}
+	
+	
+	
+	
+	/* ================= 7-免费设计 ==================*/
+	.mianfei-content .banner {
+		background-position: 48%;
+	}
+	
+	.mianfei-content .yuyue-form {
+		width: 70%;
+		margin-left: 15%;
+		margin-top: 24.8%;
+	}
+	
+	.mianfei-content .yuyue-form input {
+		margin-top: 3%;
+	}
+	
+	.mianfei-content .yuyue-form button {
+		margin-top: 0;
+		padding: 1.5% 0;
+	}
+	
+	.dingzhi-wrap .title {
+		font-size: 35px;
+	}
+	
+	.dingzhi-wrap {
+		display: block;
+	}
+	
+	.dingzhi-wrap ul,
+	.dingzhi-wrap .center-img {
+		float: left;
+	}
+	
+	.dingzhi-wrap>ul li h3 {
+		font-size: .3rem;
+	}
+	
+	.dingzhi-wrap>ul li {
+		margin-top: 28px;
+	}
+	
+	.dingzhi-wrap>ul li p {
+		font-size: .16rem;
+	}
+	
+	.dingzhi-wrap button {
+		width: 30%;
+	}
+	
+	.tuijian-list .title {
+		font-size: .5rem;
+	}
+	
+	.tuijian-list .small-title {
+		font-size: .25rem;
+	}
+	
+	.designer_list_big li:nth-child(3),
+	.designer_list_big li:nth-child(6),
+	.designer_list_big li:nth-child(9) {
+		margin-right: 3.5% !important;
+	}
+	
+	.designer_list_big li:nth-child(4),
+	.designer_list_big li:nth-child(8) {
+		margin-right: 0;
+	}
+	
+	.anli>h2 {
+		padding: 0 2%;
+	}
+	
+	.anli .image-wrap .img-wrap {
+		height: 100%;
+	}
+	
+	.anli .image-wrap section .tow-img-wrap .item-wrap {
+		width: 48.5%;
+	}
+}
+
+
+
+
+/* =================== 1024px ===============*/
+@media screen and (max-width: 1024px) {
+
+	/* 设计师大图列表 */
+	.designer_list_big li {
+		margin-right: 3.5%;
+	}
+
+	.designer_list_big li:nth-child(4),
+	.designer_list_big li:nth-child(8) {
+		margin-right: 3.5%;
+	}
+	
+	.designer_list_big li:nth-child(12) {
+		margin-right: 0;
+	}
+	
+	
+	/* 7-免费设计 */
+	.container1200 {
+		width: 100%;
+	}
+	
+	.mianfei-content .banner {
+		margin-top: 4%;
+		background-position: 42%;
+	}
+	
+	.mianfei-content .gonglue-header-right {
+		margin-top: 17.8%;
+		margin-right: 39%;
+	}
+}
